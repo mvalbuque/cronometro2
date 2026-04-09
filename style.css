@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #0a1a2f;
+    color: white;
+}
+
+#timer {
+    font-size: 120px;
+    margin: 40px;
+}
+
+button {
+    padding: 15px;
+    margin: 10px;
+    font-size: 18px;
+}
+
+.telao #timer {
+    font-size: 200px;
+}
